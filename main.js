@@ -26,7 +26,7 @@ form.addEventListener('submit', function(event){
         description = "Você está em seu peso ideal.";
         value.style.color = '';
     }else if(IMC >= 25 && IMC <= 29.9) {
-        description = "Você está levemente acima de seu peso ideal.";
+        description = "Você está levemente a cima de seu peso ideal.";
         value.style.color = '';
     }else if(IMC >= 30 && IMC <= 34.9){
         description = "Você está com obesidade Grau 1°";
